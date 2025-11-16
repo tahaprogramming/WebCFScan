@@ -31,15 +31,24 @@ Ideal for bug bounty recon, pentest OSINT, and red team research.
 
 ---
 
-### Installation
+### Report Intelligence
+![report_shot](./report_shot.png)
+---
+
+### Requirements
+```python
+rich>=13.7.0
+pyfiglet>=1.0.2
+requests>=2.31.0
 ```
+
+### Installation
+```bash
 > git clone https://github.com/tahaprogramming/WebCFScan.git
 > cd WebCFScan
 > pip install -r requirements.txt
 > python webcfscan.py
 ```
----
-
 > **Tip: Run with sudo for accurate network path detection ⚠️**
 
 > ### **Author**
