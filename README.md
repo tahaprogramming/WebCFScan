@@ -32,7 +32,7 @@ Ideal for bug bounty recon, pentest OSINT, and red team research.
 ---
 
 ### Report Intelligence
-![report_shot](./report_shot.png)
+![report_shot](./report_shot2.png)
 ---
 
 ### Requirements
